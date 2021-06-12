@@ -1,5 +1,5 @@
 *** Settings ***
-Resource            /home/raquel/PycharmProjects/RobotProject/WebTestDemo/resources/resources.robot
+Resource            /home/raquel/AutomatedTests/RobotProject/WebTestDemo/resources/resources.robot
 Test Setup          Open site page
 Test Teardown       Close site page
 
